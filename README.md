@@ -1,18 +1,18 @@
 # Что это? 
 
-Этот репозиторий содержит автоматически обновляемые правила маршрутизации [**V2Ray**](https://github.com/v2fly/v2ray-core), основанные на данных о заблокированных доменах и адресах в России.
+Этот [forked] репозиторий содержит автоматически обновляемые правила маршрутизации [**V2Ray**](https://github.com/v2fly/v2ray-core), основанные на данных о заблокированных доменах и адресах в России.
 
-Распространяемые здесь файлы `geoip.dat` и `geosite.dat` могут использоваться в [V2Ray](https://github.com/v2fly/v2ray-core), [v2rayN](https://github.com/2dust/v2rayN), [Xray-core](https://github.com/XTLS/Xray-core), [mihomo](https://github.com/MetaCubeX/mihomo/tree/Meta), [hysteria](https://github.com/apernet/hysteria), [Trojan-Go](https://github.com/p4gefau1t/trojan-go), [leaf](https://github.com/eycorsican/leaf) и так далее.
+Распространяемые здесь файлы `geoip_ru.dat` и `geosite_ru.dat` могут использоваться в [V2Ray](https://github.com/v2fly/v2ray-core), [v2rayN](https://github.com/2dust/v2rayN), [Xray-core](https://github.com/XTLS/Xray-core), [mihomo](https://github.com/MetaCubeX/mihomo/tree/Meta), [hysteria](https://github.com/apernet/hysteria), [Trojan-Go](https://github.com/p4gefau1t/trojan-go), [leaf](https://github.com/eycorsican/leaf) и так далее.
 
-Этот репозиторий является официальным источником российских geo файлов для [v2rayN](https://github.com/2dust/v2rayN). 
+Этот репозиторий является [не]официальным источником российских geo файлов для [v2rayN](https://github.com/2dust/v2rayN). 
 
 Репозиторий обновляется каждые 6 часов.
 
 ## Какие категории содержатся в файлах
 
-### geoip.dat
+### geoip_ru.dat
 
-`geoip.dat` генерируется в репозитории [@runetfreedom/russia-blocked-geoip](https://github.com/runetfreedom/russia-blocked-geoip)
+`geoip_ru.dat` генерируется в репозитории [@runetfreedom/russia-blocked-geoip](https://github.com/runetfreedom/russia-blocked-geoip)
 
 Основные категории:
 
@@ -33,9 +33,9 @@
 - `geoip:ddos-guard`
 - `geoip:yandex`
 
-### geosite.dat
+### geosite_ru.dat
 
-`geosite.dat` генерируется в репозитории [@runetfreedom/russia-blocked-geosite](https://github.com/runetfreedom/russia-blocked-geosite)
+`geosite_ru.dat` генерируется в репозитории [@runetfreedom/russia-blocked-geosite](https://github.com/runetfreedom/russia-blocked-geosite)
 
 Доступные категории:
 
@@ -56,9 +56,9 @@
 По ссылкам ниже всегда доступна последняя версия файлов.
 
 - **geoip.dat**
-    - [https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geoip.dat](https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geoip.dat)
+    - [https://raw.githubusercontent.com/hvtccore/russia-v2ray-rules-dat/release/geoip_ru.dat](https://raw.githubusercontent.com/hvtccore/russia-v2ray-rules-dat/release/geoip_ru.dat)
 - **geosite.dat**
-    - [https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat](https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat)
+    - [https://raw.githubusercontent.com/hvtccore/russia-v2ray-rules-dat/release/geosite_ru.dat](https://raw.githubusercontent.com/hvtccore/russia-v2ray-rules-dat/release/geosite_ru.dat)
 
 
 ## Cмежные проекты
